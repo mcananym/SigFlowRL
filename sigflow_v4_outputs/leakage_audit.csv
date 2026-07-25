@@ -1,0 +1,7 @@
+check,passed,observed,boundary
+training targets end by training cutoff,True,2024-04-26,2024-04-26
+validation origins begin after training cutoff,True,2024-04-29,2024-04-26
+validation targets end by validation cutoff,True,2025-04-07,2025-04-07
+calibration origins begin after validation cutoff,True,2025-04-08,2025-04-07
+calibration targets end by calibration cutoff,True,2025-11-21,2025-11-21
+test origins begin after calibration cutoff,True,2025-11-24,2025-11-21

@@ -1,0 +1,7 @@
+comparison,metric,mean_difference,lower_95,upper_95,sigflow_better_if
+SigFlow v4 minus Rolling volatility,mae,-0.005905079055832412,-0.015084294511829407,0.0026301524278962434,difference < 0
+SigFlow v4 minus Rolling volatility,qlike,-0.07731001890446468,-0.23348766161557444,0.050523283281023214,difference < 0
+SigFlow v4 minus EWMA volatility,mae,-0.0036358950269964217,-0.012273704721754854,0.00402956732775688,difference < 0
+SigFlow v4 minus EWMA volatility,qlike,0.01931643063967533,-0.0856311429886426,0.1266757516395036,difference < 0
+SigFlow v4 minus HAR-style per ticker,mae,0.0027421185149515224,-0.0012361912150757378,0.006574792421340265,difference < 0
+SigFlow v4 minus HAR-style per ticker,qlike,0.06761696126916926,0.01724802855171591,0.12707671516620184,difference < 0

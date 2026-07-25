@@ -1,0 +1,6 @@
+symbol,provider,rows,first_date,last_date,missing_volume_rows
+AAPL,synthetic_fallback_fast,1713,2020-01-01,2026-07-24,0
+MSFT,synthetic_fallback_fast,1713,2020-01-01,2026-07-24,0
+SPY,synthetic_fallback_fast,1713,2020-01-01,2026-07-24,0
+QQQ,synthetic_fallback_fast,1713,2020-01-01,2026-07-24,0
+^VIX,synthetic_fallback_fast,1713,2020-01-01,2026-07-24,0
